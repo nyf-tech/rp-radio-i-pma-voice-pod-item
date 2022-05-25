@@ -1,5 +1,4 @@
-rp-radio 
-pma-voice
+rp-radio i pma-voice
 
 pod item
  
